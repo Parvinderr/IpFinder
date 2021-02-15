@@ -3,7 +3,7 @@ import getmac
 from sys import exit
 import requests as r
 
-
+print("Total umber Of Ports Available is 65535 ports ")
 print("1- Find IP Address Of Any Website ")
 print("2- Find Your Host Name And Ip Address")
 print("3- Find Service Name by Port Number ")
